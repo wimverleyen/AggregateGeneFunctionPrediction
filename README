@@ -1,5 +1,22 @@
 AggregateGeneFunctionPrediction
 
+This code is designed at the Gillis Lab in Cold Spring Harbor Laboratories by Wim Verleyen
+
 Gene function prediction with aggregation of data resources and algorithms
 
+Four 'off-the-shelf' algorithms are configured with default parameters to perform gene function prediction:
+
+-) Logistic regression
+-) Random forest
+-) Stochastic gradient descent
+-) Passive aggressive
+
+Gene Ontology:
+-) Code to load Matlab matrices/vectors of the gene identifiers, GO term identifiers, and GO term annotation matrix.
+
+Model:
+-) Plot
+	Code of the performance measures
+-) Database
+	Code of the MySQL queries
 
