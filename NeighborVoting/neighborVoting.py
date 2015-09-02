@@ -109,7 +109,6 @@ class NeighborVoting:
 
 			resultid += 1
 
-
 			labelIx = range(self.__numproteins)
 			offset = 0
 			fold = 0
