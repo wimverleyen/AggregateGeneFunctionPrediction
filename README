@@ -10,6 +10,8 @@ Four 'off-the-shelf' algorithms are used from scikit-learn:
 -) Random forest
 -) Stochastic gradient descent
 -) Passive aggressive
+-) Random walks with restarts
+-) Neighbor voting
 
 Gene Ontology:
 -) Code to load Matlab matrices/vectors of the gene identifiers, GO term identifiers, and GO term annotation matrix.
