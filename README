@@ -4,7 +4,7 @@ This code is designed at the Gillis Lab in Cold Spring Harbor Laboratories by Wi
 
 Gene function prediction with aggregation of data resources and algorithms
 
-Four 'off-the-shelf' algorithms are used from scikit-learn:
+Six 'off-the-shelf' algorithms are used from scikit-learn:
 
 -) Logistic regression
 -) Random forest
