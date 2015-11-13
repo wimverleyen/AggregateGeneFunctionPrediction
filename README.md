@@ -24,6 +24,9 @@ Code of the MySQL queries
 
 ## Replicability in gene network analysis
 
+The [network data](http://gillislab.labsites.cshl.edu/supplements/replicability-in-gene-function-prediction-2/) used for the analysis of replicability in gene network analysis is based upon different publicably available data resources, i.e., protein-protein interaction, biological pathways, shared protein domains, disease annaotations, and expression profiles from microarray and RNA Seq experiments.
 
-[Network data!](http://gillislab.labsites.cshl.edu/supplements/replicability-in-gene-function-prediction-2/)
+
+
+
 
